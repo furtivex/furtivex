@@ -4,7 +4,7 @@ Hi 👋 My name is Furtivex
 Computer Technician, Developer, DFIR
 ------------------------------------
 
-I've been learning coding for 4 years. I am very intrigued with how powerful regular expressions are and have been learning to use them a lot in the scripts I've developed. I'd be interested in learning additional languages, but so far I haven't stumbled upon a problem that can't be solved with batch programming.
+I've been learning coding for 4 years. I am very intrigued with how powerful regular expressions are and have been learning how to incorporate them into my projects.
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [Furtivex.net](https://furtivex.net)
