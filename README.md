@@ -8,7 +8,7 @@ I've been learning coding for 4 years. I am very intrigued with how powerful reg
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [Furtivex.net](https://furtivex.net)
-* 🚀  I'm currently working on [Furtivex Malware Removal Script](https://furtivex.net/uncategorized/about-tools/)
+* 🚀  I'm currently working on [Furtivex Malware Removal Script](https://furtivex.net/scripts/fmrs/)
 * 🧠  I'm learning Batch, Bash, Regular Expressions, C#
 * 🤝  I'm open to collaborating on Malware Analysis and Removal
 
