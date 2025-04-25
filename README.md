@@ -4,7 +4,7 @@ Hi 👋 My name is Furtivex
 Computer Technician, Developer, DFIR
 ------------------------------------
 
-I've been learning coding for 4 years. I am very intrigued with how powerful regular expressions are and have been learning how to incorporate them into my projects.
+I've been learning coding for 4 years.
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [Furtivex.net](https://furtivex.net)
