@@ -8,7 +8,7 @@ I've been learning coding for 4 years.
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [Furtivex.net](https://furtivex.net)
-* 🚀  I'm currently working on [DoesNotBelong](https://furtivex.net/scripts/doesnotbelong/) and [PrivWindoze](https://furtivex.net/scripts/privwindoze/)
+* 🚀  I'm currently working on [DoesNotBelong](https://furtivex.net/scripts/dnd/) and [PrivWindoze](https://furtivex.net/scripts/privwindoze/)
 * 🧠  I'm learning Batch, Bash, Regular Expressions, C#
 
 <a href="https://www.github.com/furtivex" target="_blank" rel="noreferrer"><img
