@@ -1,7 +1,7 @@
 Hi 👋 My name is Furtivex
 =========================
 
-Computer Technician, Developer, DFIR
+Computer Technician, Developer
 ------------------------------------
 
 I've been learning coding for 4 years.
