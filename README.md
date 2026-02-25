@@ -33,10 +33,6 @@ src="https://img.shields.io/github/followers/furtivex?logo=github&style=for-the-
 
 <a href="https://www.github.com/furtivex" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furtivex&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/furtivex/hosts_adultxxx" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=furtivex&repo=hosts_adultxxx&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/furtivex/FRST-Scraper" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=furtivex&repo=FRST-Scraper&title_color=64748b&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
 ### Support Me
 
 <a href="https://furtivex.net/support/donate/"><img src="https://furtivex.net/wp-content/uploads/2024/11/image-15.png" width="110"/></a></li>
