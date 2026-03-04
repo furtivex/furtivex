@@ -9,5 +9,5 @@
 ---
 
 ### 🧪 Active Projects
-- DoesNotBelong
-- PrivWindoze
+- [DoesNotBelong](https://furtivex.net/scripts/dnb)
+- [PrivWindoze](https://furtivex.net/scripts/privwindoze)
